@@ -21,7 +21,13 @@ The app includes:
 
 ---
 
-## 🛠️ Tech Stack
+## � Demo Video
+
+Watch SafeDrive in action: [View Demo Video](https://drive.google.com/file/d/1P-wEcSQCfvoewUYai_e4fcCAzyJC9Z8W/view?usp=sharing)
+
+---
+
+## �🛠️ Tech Stack
 
 | Library                     | Purpose                                              |
 | --------------------------- | ---------------------------------------------------- |
@@ -177,18 +183,28 @@ npm run web       # Open in browser
 
 Shows overall score, total trips, hours driven, and the START TRIP button.
 
+![Home Dashboard](./assets/screenshots/Home.jpeg)
+
 ### Active Driving HUD
 
 Real-time circular score gauge, duration, speed, live accelerometer chart, and detected event feed.
+
+![Active Driving HUD](./assets/screenshots/Active-Driving-HUD.jpeg)
 
 ### Trip Summary
 
 Final score, safety rating, full event breakdown (all 6 categories), AI coaching feedback, interactive route replay map with event pins, and a full event timeline with timestamps.
 
+![Trip Summary](./assets/screenshots/Trip-summary.jpeg)
+
 ### History Tab
 
 Score trend chart across recent trips, aggregate stats, and a list of all past drives.
 
+![History](./assets/screenshots/History.jpeg)
+
 ### Settings / Calibration Tab
 
 Live sensor readings, gravity calibration, threshold adjusters, and driving simulator launcher.
+
+![Settings](./assets/screenshots/Settings.jpeg)
