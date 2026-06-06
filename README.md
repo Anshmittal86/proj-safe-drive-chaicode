@@ -183,28 +183,28 @@ npm run web       # Open in browser
 
 Shows overall score, total trips, hours driven, and the START TRIP button.
 
-![Home Dashboard](./assets/screenshots/Home.jpeg)
+<img src="./assets/screenshots/Home.jpeg" alt="Home Dashboard" width="350" />
 
 ### Active Driving HUD
 
 Real-time circular score gauge, duration, speed, live accelerometer chart, and detected event feed.
 
-![Active Driving HUD](./assets/screenshots/Active-Driving-HUD.jpeg)
+<img src="./assets/screenshots/Active-Driving-HUD.jpeg" alt="Active Driving HUD" width="350" />
 
 ### Trip Summary
 
 Final score, safety rating, full event breakdown (all 6 categories), AI coaching feedback, interactive route replay map with event pins, and a full event timeline with timestamps.
 
-![Trip Summary](./assets/screenshots/Trip-summary.jpeg)
+<img src="./assets/screenshots/Trip-summary.jpeg" alt="Trip Summary" width="350" />
 
 ### History Tab
 
 Score trend chart across recent trips, aggregate stats, and a list of all past drives.
 
-![History](./assets/screenshots/History.jpeg)
+<img src="./assets/screenshots/History.jpeg" alt="History" width="350" />
 
 ### Settings / Calibration Tab
 
 Live sensor readings, gravity calibration, threshold adjusters, and driving simulator launcher.
 
-![Settings](./assets/screenshots/Settings.jpeg)
+<img src="./assets/screenshots/Settings.jpeg" alt="Settings" width="350" />
